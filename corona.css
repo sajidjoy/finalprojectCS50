@@ -1,0 +1,13 @@
+#headline
+{
+    font-size: 32px;
+    font-family: Verdana ;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 380px;
+    margin-left: 380px;
+    border: 12px solid blue;
+    border-radius: 72px;
+    text-align: center;
+    background-color: cyan;
+}
