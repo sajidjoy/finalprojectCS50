@@ -1,0 +1,100 @@
+id,country,state,city,date of effected,date of recovered,dete of death,status
+1,Bangladesh,Dhaka,Dhaka,5/16/2020,,,1
+2,Bangladesh,Chittagong,Chittagong,5/17/2020,6/6/2020,,0
+3,Bangladesh,Sylhet,Moulovibazar,5/18/2020,,6/15/2020,2
+4,Bangladesh,Dhaka,Dhaka,5/19/2020,,,1
+5,Bangladesh,Dhaka,Dhaka,5/20/2020,6/18/2020,,0
+6,Bangladesh,Dhaka,Dhaka,5/21/2020,6/19/2020,,0
+7,Bangladesh,Dhaka,Dhaka,5/17/2020,6/20/2020,,0
+8,Bangladesh,Dhaka,Dhaka,5/18/2020,,6/14/2020,2
+9,Bangladesh,Dhaka,Dhaka,5/19/2020,,6/15/2020,2
+10,Bangladesh,Dhaka,Dhaka,5/20/2020,,6/16/2020,2
+11,Bangladesh,Dhaka,Dhaka,5/21/2020,,,1
+12,Bangladesh,Dhaka,Dhaka,5/22/2020,,,1
+13,Bangladesh,Dhaka,Narayangonj,5/12/2020,,,1
+14,Bangladesh,Dhaka,Narayangonj,5/13/2020,,,1
+15,Bangladesh,Dhaka,Narayangonj,5/14/2020,,,1
+16,Bangladesh,Dhaka,Narayangonj,5/15/2020,,,1
+17,Bangladesh,Dhaka,Gazirpur,5/16/2020,,,1
+18,Bangladesh,Dhaka,Gazirpur,5/17/2020,,6/17/2020,2
+19,Bangladesh,Dhaka,Gazirpur,5/18/2020,5/30/2020,,0
+20,Bangladesh,Chittagong,Chittagong,5/19/2020,5/31/2020,,0
+21,Bangladesh,Chittagong,Chittagong,5/20/2020,6/1/2020,,0
+22,Bangladesh,Chittagong,Chittagong,5/21/2020,6/2/2020,,0
+23,Bangladesh,Chittagong,Chittagong,5/22/2020,6/3/2020,,0
+24,Bangladesh,Chittagong,Chittagong,5/23/2020,6/4/2020,,0
+25,Bangladesh,Chittagong,Chittagong,5/10/2020,6/5/2020,,0
+26,Bangladesh,Chittagong,Chittagong,5/11/2020,,,1
+27,Bangladesh,Chittagong,Chittagong,5/12/2020,,,1
+28,Bangladesh,Chittagong,Chittagong,5/13/2020,,,1
+29,Bangladesh,Chittagong,Chittagong,5/14/2020,,,1
+30,Bangladesh,Chittagong,Chittagong,5/15/2020,,,1
+31,Bangladesh,Chittagong,Chittagong,5/16/2020,,,1
+32,Bangladesh,Chittagong,Chittagong,5/17/2020,,,1
+33,Bangladesh,Chittagong,Chittagong,5/18/2020,,,1
+34,Bangladesh,Chittagong,Comilla,5/19/2020,,,1
+35,Bangladesh,Chittagong,Comilla,5/20/2020,,,1
+36,Bangladesh,Chittagong,Comilla,5/21/2020,,,1
+37,Bangladesh,Chittagong,Comilla,5/22/2020,,,1
+38,Bangladesh,Chittagong,Comilla,5/23/2020,,,1
+39,Bangladesh,Chittagong,Comilla,5/24/2020,,,1
+40,Bangladesh,Chittagong,Comilla,5/25/2020,,,1
+41,Bangladesh,Chittagong,Comilla,5/26/2020,,,1
+42,Bangladesh,Chittagong,Comilla,5/20/2020,,,1
+43,Bangladesh,Chittagong,Comilla,5/21/2020,,,1
+44,Bangladesh,Chittagong,Comilla,5/22/2020,,,1
+45,Bangladesh,Chittagong,Comilla,5/23/2020,,,1
+46,Bangladesh,Chittagong,Comilla,5/24/2020,,,1
+47,Bangladesh,Chittagong,Comilla,5/25/2020,,,1
+48,Bangladesh,Chittagong,Coxs Bazar,5/26/2020,,,1
+49,Bangladesh,Chittagong,Coxs Bazar,5/27/2020,,,1
+50,Bangladesh,Chittagong,Coxs Bazar,5/11/2020,,,1
+51,Bangladesh,Chittagong,Coxs Bazar,5/12/2020,,,1
+52,Bangladesh,Chittagong,Coxs Bazar,5/13/2020,,,1
+53,Bangladesh,Chittagong,Coxs Bazar,5/14/2020,,,1
+54,Bangladesh,Chittagong,Coxs Bazar,5/15/2020,,,1
+55,Bangladesh,Chittagong,Coxs Bazar,5/16/2020,,,1
+56,Bangladesh,Chittagong,Coxs Bazar,5/17/2020,,,1
+57,Bangladesh,Chittagong,Rangamati,5/18/2020,,,1
+58,Bangladesh,Chittagong,Rangamati,5/19/2020,,,1
+59,Bangladesh,Chittagong,Rangamati,5/20/2020,,,1
+60,Bangladesh,Chittagong,Rangamati,6/1/2020,,,1
+61,Bangladesh,Chittagong,Rangamati,6/2/2020,,,1
+62,Bangladesh,Chittagong,Rangamati,6/3/2020,,,1
+63,Bangladesh,Chittagong,Rangamati,6/4/2020,,,1
+64,Bangladesh,Chittagong,Kaptai,6/5/2020,,,1
+65,Bangladesh,Chittagong,Kaptai,6/6/2020,,,1
+66,Bangladesh,Rajshahi,Rajshahi,6/7/2020,,,1
+67,Bangladesh,Rajshahi,Rajshahi,6/8/2020,,,1
+68,Bangladesh,Rajshahi,Rajshahi,6/9/2020,,,1
+69,Bangladesh,Rajshahi,Rajshahi,6/10/2020,,,1
+70,Bangladesh,Rajshahi,Rajshahi,6/11/2020,,,1
+71,Bangladesh,Rajshahi,Rajshahi,6/12/2020,,,1
+72,Bangladesh,Rajshahi,Habigonj,6/13/2020,,,1
+73,Bangladesh,Rajshahi,Habigonj,5/14/2020,,,1
+74,Bangladesh,Rajshahi,Habigonj,5/15/2020,,,1
+75,Bangladesh,Rajshahi,Habigonj,5/16/2020,,,1
+76,Bangladesh,Barisal,Barisal,5/17/2020,,,1
+77,Bangladesh,Barisal,Barisal,5/18/2020,,,1
+78,Bangladesh,Barisal,Barisal,5/19/2020,,5/23/2020,2
+79,Bangladesh,Barisal,Barisal,5/20/2020,,5/24/2020,2
+80,Bangladesh,Barisal,Barisal,5/21/2020,,5/25/2020,2
+81,Bangladesh,Barisal,Barisal,5/22/2020,,5/26/2020,2
+82,Bangladesh,Barisal,Patuakhali,5/27/2020,,5/27/2020,2
+83,Bangladesh,Barisal,Patuakhali,5/28/2020,,5/28/2020,2
+84,Bangladesh,Barisal,Patuakhali,5/29/2020,,5/29/2020,2
+85,Bangladesh,Barisal,Patuakhali,5/30/2020,,5/30/2020,2
+86,Bangladesh,Khulna,Khulna,5/31/2020,,5/31/2020,2
+87,Bangladesh,Khulna,Khulna,6/1/2020,,6/1/2020,2
+88,Bangladesh,Khulna,Khulna,6/2/2020,,6/2/2020,2
+89,Bangladesh,Khulna,Khulna,6/3/2020,,6/3/2020,2
+90,Bangladesh,Khulna,Khulna,6/4/2020,,6/4/2020,2
+91,Bangladesh,Khulna,Khulna,6/5/2020,,,1
+92,Bangladesh,Khulna,Khulna,6/6/2020,,,1
+93,Bangladesh,Khulna,Gopalgonj,6/4/2020,,,1
+94,Bangladesh,Khulna,Gopalgonj,6/5/2020,,,1
+95,Bangladesh,Khulna,Gopalgonj,6/6/2020,,,1
+96,Bangladesh,Khulna,Gopalgonj,6/7/2020,,,1
+97,Bangladesh,Rangpur,Rangpur,6/8/2020,,,1
+98,Bangladesh,Rangpur,Rangpur,6/9/2020,,,1
+99,Bangladesh,Rangpur,Rangpur,6/10/2020,,,1
